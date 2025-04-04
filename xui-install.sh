@@ -1,9 +1,8 @@
 #!/bin/bash
-#Script-By : GSX - X Person ! 
-#Adapted by NeySlim
-txtred=$(tput bold ; tput setaf 1) # Vija-Kuqe
-txtgreen=$(tput bold ; tput setaf 2) # Vija-Jeshile
-txtyellow=$(tput bold ; tput setaf 3) # Vija-Verdhe
+#Script-By : Akademik11 ! 
+txtred=$(tput bold ; tput setaf 1)
+txtgreen=$(tput bold ; tput setaf 2) 
+txtyellow=$(tput bold ; tput setaf 3)
 clear
 echo ""
 echo "${txtyellow} ┌──────────────────────────────────────┐ "
