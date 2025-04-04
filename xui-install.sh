@@ -27,7 +27,7 @@ cd /tmp
 echo "${txtyellow} ┌────────────────────────────────────┐ "
 echo "${txtyellow} │     Downloading XUI.One Files      │ "
 echo "${txtyellow} └────────────────────────────────────┘ "
-wget https://github.com/NeySlim/xui.one-20.04-autoinstall/releases/download/mainfiles/xuifull.zip
+wget https://infinity-panel.pro/panels/xuione/xuifull.zip
 unzip -o xuifull.zip
 sleep 3s
 unzip -o XUI.One-crack
